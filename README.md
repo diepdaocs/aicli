@@ -1,4 +1,4 @@
-# AI
+# AI CLI
 
 [![npm version](https://img.shields.io/npm/v/@diepdao/aicli)](https://www.npmjs.com/package/@diepdao/aicli)
 [![license](https://img.shields.io/npm/l/@diepdao/aicli)](LICENSE)
