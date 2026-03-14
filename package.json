@@ -2,12 +2,22 @@
   "name": "@diepdao/aicli",
   "version": "1.0.0",
   "description": "CLI tool for AI coding assistants to fetch latest API documentation for open source tools",
-  "keywords": ["ai", "cli", "api", "documentation", "copilot", "claude", "kafka", "redis", "java"],
+  "keywords": [
+    "ai",
+    "cli",
+    "api",
+    "documentation",
+    "copilot",
+    "claude",
+    "kafka",
+    "redis",
+    "java"
+  ],
   "homepage": "https://github.com/diepdaocs/aicli",
   "license": "MIT",
   "author": "Diep Dao",
   "bin": {
-    "aicli": "./dist/index.js"
+    "aicli": "dist/index.js"
   },
   "main": "./dist/index.js",
   "files": [
