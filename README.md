@@ -1,4 +1,8 @@
-# @diepdao/aicli
+# AI
+
+[![npm version](https://img.shields.io/npm/v/@diepdao/aicli)](https://www.npmjs.com/package/@diepdao/aicli)
+[![license](https://img.shields.io/npm/l/@diepdao/aicli)](LICENSE)
+[![node](https://img.shields.io/node/v/@diepdao/aicli)](https://nodejs.org)
 
 **AI Documentation CLI** — fetch latest API documentation for open source tools.
 
