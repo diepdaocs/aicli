@@ -1,6 +1,6 @@
 {
   "name": "@diepdao/aicli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool for AI coding assistants to fetch latest API documentation for open source tools",
   "keywords": [
     "ai",
